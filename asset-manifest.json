@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spttd-nsp-br/static/css/main.073c9b0a.css",
+    "main.js": "/spttd-nsp-br/static/js/main.0492be96.js",
+    "static/js/787.3cab94bd.chunk.js": "/spttd-nsp-br/static/js/787.3cab94bd.chunk.js",
+    "index.html": "/spttd-nsp-br/index.html",
+    "main.073c9b0a.css.map": "/spttd-nsp-br/static/css/main.073c9b0a.css.map",
+    "main.0492be96.js.map": "/spttd-nsp-br/static/js/main.0492be96.js.map",
+    "787.3cab94bd.chunk.js.map": "/spttd-nsp-br/static/js/787.3cab94bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0492be96.js"
+  ]
+}
